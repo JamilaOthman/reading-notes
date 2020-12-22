@@ -9,7 +9,7 @@ There are many questions that you should ask yourself before creating a web page
 * How Often People Will Visit Your Site?
 #### After you find out these answers you can set maps and draw a wirefram.
 ## HTML5 Layout
-** The new HTML5 elements indicate the purpose of 
+**The new HTML5 elements indicate the purpose of** 
 different parts of a web page and help to describe 
 its structure.
 ### Some Layout Element
@@ -24,9 +24,9 @@ its structure.
 * DOCTYPES tell browsers which version of HTML you 
 are using.
 * You can add comments to your code between the 
-<!-- and --> markers.
+< !-- and --> markers.
 * The id and class attributes allow you to identify 
 particular elements.
-* The <div> and <span> elements allow you to group 
+* The < div> and < span> elements allow you to group 
 block-level and inline elements together. 
-** The book talks about escape codes and some signs and what they indicate to
+**The book talks about escape codes and some signs and what they indicate to**
