@@ -4,4 +4,4 @@ Hey..
  I have a bachelor's degree in medical physics from **king Abdulaziz University**.
 **Topic** | **URL**
 ------------ | -------------
-Grothmindest    |[Grothmindest!]](https://github.com/JamilaOthman/reading-notes/blob/main/growthmindst.md)
+Grothmindest    |[Grothmindest!](https://github.com/JamilaOthman/reading-notes/blob/main/growthmindst.md)
