@@ -5,3 +5,4 @@ Hey..
 **Topic** | **URL**
 ------------ | -------------
 Grothmindest    |[Grothmindest!](https://github.com/JamilaOthman/reading-notes/blob/main/growthmindst.md)
+HTML           | [HTML!] (https://github.com/JamilaOthman/reading-notes/blob/main/HTML.md)
