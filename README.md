@@ -7,3 +7,4 @@ Hey..
 Grothmindest    |[Grothmindest!](https://github.com/JamilaOthman/reading-notes/blob/main/growthmindst.md)
 HTML           | [HTML!](https://github.com/JamilaOthman/reading-notes/blob/main/HTML.md)
 markdown        |[markdown!](https://github.com/JamilaOthman/reading-notes/blob/main/markdown.md)
+howw dose computer working |[computr!](https://github.com/JamilaOthman/reading-notes/blob/main/computer)
