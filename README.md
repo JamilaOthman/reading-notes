@@ -10,3 +10,4 @@ markdown        |[markdown!](https://github.com/JamilaOthman/reading-notes/blob/
 how dose computer working |[computr!](https://github.com/JamilaOthman/reading-notes/blob/main/computer)
 intro to Git              | [introtoGit!](https://github.com/JamilaOthman/reading-notes/blob/main/HTML/introtoGit.md)
 Programming with JavaScript        |[read7!](https://github.com/JamilaOthman/reading-notes/blob/main/read7.md)
+JavaScript & jQuery              |[read7!](https://github.com/JamilaOthman/reading-notes/blob/main/read8.md)
