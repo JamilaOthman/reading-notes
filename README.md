@@ -8,3 +8,4 @@ Grothmindest    |[Grothmindest!](https://github.com/JamilaOthman/reading-notes/b
 HTML           | [HTML!](https://github.com/JamilaOthman/reading-notes/blob/main/HTML.md)
 markdown        |[markdown!](https://github.com/JamilaOthman/reading-notes/blob/main/markdown.md)
 how dose computer working |[computr!](https://github.com/JamilaOthman/reading-notes/blob/main/computer)
+intro to Git              | [introtoGit!](https://github.com/JamilaOthman/reading-notes/blob/main/HTML/introtoGit.md)
