@@ -11,3 +11,4 @@ how dose computer working |[computr!](https://github.com/JamilaOthman/reading-no
 intro to Git              | [introtoGit!](https://github.com/JamilaOthman/reading-notes/blob/main/HTML/introtoGit.md)
 Programming with JavaScript        |[read7!](https://github.com/JamilaOthman/reading-notes/blob/main/read7.md)
 JavaScript & jQuery              |[read8!](https://github.com/JamilaOthman/reading-notes/blob/main/read8.md)
+HTML & CSS,:Color        |[read5!](https://github.com/JamilaOthman/reading-notes/blob/main/read5.md)
