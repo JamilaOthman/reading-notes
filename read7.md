@@ -10,7 +10,8 @@ REACT TO EVENTS.
 A **script** is a series of instructions that a
 computer can follow to achieve a goa
 WRITING A SCRIPT
-Every step for every task shown
+Every step for every task 
+
 in a flowchart needs to be written
 in a language the computer can
 understand and follow
