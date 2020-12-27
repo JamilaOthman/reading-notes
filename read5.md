@@ -8,13 +8,13 @@ color in CSS in one of three ways:
 are expressed as numbers
 between 0 and 255.**
 * hex codes
- ** Hex values represent values
+ **Hex values represent values
 for red, green, and blue in
-hexadecimal code. **
+hexadecimal code.**
 * color names
-   ** Colors are represented by
+   **Colors are represented by
 predefined names. However,
-they are very limited in number. **
+they are very limited in number.**
 ### background-color
 ### When picking foreground and background
 colors, it is important to ensure that there is
@@ -25,5 +25,5 @@ enough contrast for the text to be legible.
 way to specify colors using hue, saturation,
 and lightness values.
 ### hsl, hsla
- ** CSS3 allows you to specify colors as HSL values,
+ **CSS3 allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA. **
