@@ -25,5 +25,5 @@ enough contrast for the text to be legible.
 way to specify colors using hue, saturation,
 and lightness values.
 ### hsl, hsla
- ** CSS3 allows you to specify colors as HSL values,
-with an optional opacity value. It is known as HSLA. **
+ **CSS3 allows you to specify colors as HSL values,
+with an optional opacity value. It is known as HSLA.**
